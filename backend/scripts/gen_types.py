@@ -9,7 +9,15 @@ from uuid import UUID
 
 from pydantic import BaseModel
 
-from ccvie.contracts.entities import IssueType, Pack, PackType, Product, Region, Verbatim, VerbatimSource
+from ccvie.contracts.entities import (
+    IssueType,
+    Pack,
+    PackType,
+    Product,
+    Region,
+    Verbatim,
+    VerbatimSource,
+)
 from ccvie.contracts.insight import InsightResponse
 from ccvie.contracts.query import QueryFilters, QueryRequest
 from ccvie.contracts.router import RouteDecision
@@ -77,7 +85,8 @@ def render_model(model: type) -> str:
 def main() -> None:
     parts = [
         "// GENERATED — do not edit. Source: backend/src/ccvie/contracts/",
-        "// ponytail: Date fields, not ISO strings. api-client parses HTTP JSON when a route exists.",
+        "// ponytail: Date fields, not ISO strings. "
+        "api-client parses HTTP JSON when a route exists.",
         "",
     ]
     parts.extend(render_enum(enum_cls) for enum_cls in ENUMS)

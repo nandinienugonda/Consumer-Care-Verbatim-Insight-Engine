@@ -1,6 +1,4 @@
-﻿version: '3.8'
-
-services:
+﻿services:
   db:
     image: pgvector/pgvector:pg16
     container_name: ccvie-db
@@ -9,12 +7,65 @@ services:
       POSTGRES_PASSWORD: ccvie
       POSTGRES_DB: ccvie
     ports:
-      - "5432:5432"
+      - "${DB_HOST_PORT:-5432}:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U ccvie"]
       interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: ccvie-redis
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  migrate:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    image: ccvie-backend
+    command: ["ccvie-migrate"]
+    environment:
+      DATABASE_URL: postgresql://ccvie:ccvie@db:5432/ccvie
+    depends_on:
+      db:
+        condition: service_healthy
+
+  api:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    image: ccvie-backend
+    environment:
+      DATABASE_URL: postgresql://ccvie:ccvie@db:5432/ccvie
+      REDIS_URL: redis://redis:6379/0
+      AUTH_DEV_MODE: ${AUTH_DEV_MODE:-false}
+      AUTH_DEV_SECRET: ${AUTH_DEV_SECRET:-}
+      AUTH_JWKS_URL: ${AUTH_JWKS_URL:-}
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+      OTEL_EXPORTER_OTLP_ENDPOINT: ${OTEL_EXPORTER_OTLP_ENDPOINT:-}
+    ports:
+      - "8000:8000"
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request; urllib.request.urlopen('http://localhost:8000/readyz', timeout=3)"
+      interval: 15s
       timeout: 5s
       retries: 5
 

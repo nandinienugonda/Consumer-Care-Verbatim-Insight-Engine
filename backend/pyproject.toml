@@ -1,13 +1,30 @@
 [project]
 name = "ccvie"
-version = "0.0.1"
+version = "0.1.0"
 description = "Consumer Care Verbatim Insight Engine API"
 requires-python = ">=3.11"
 dependencies = [
+    "asyncpg>=0.30",
     "fastapi>=0.115",
+    "opentelemetry-exporter-otlp-proto-http>=1.27",
+    "opentelemetry-instrumentation-fastapi>=0.48b0",
+    "opentelemetry-sdk>=1.27",
+    "prometheus-client>=0.21",
     "pydantic-settings>=2.6",
+    "pyjwt[crypto]>=2.9",
+    "redis>=5.0",
     "uvicorn>=0.32",
 ]
+
+[project.optional-dependencies]
+dev = [
+    "httpx>=0.27",
+    "pytest>=8.3",
+    "ruff>=0.6",
+]
+
+[project.scripts]
+ccvie-migrate = "ccvie.data_foundation.migrate:main"
 
 [build-system]
 requires = ["setuptools>=68"]
@@ -15,3 +32,19 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["integration: needs a running PostgreSQL with migrations applied"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "S", "ASYNC"]
+ignore = ["S101"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["S105", "S106"]
+"scripts/**" = ["S105", "S106"]

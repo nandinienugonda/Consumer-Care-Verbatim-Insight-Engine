@@ -4,6 +4,7 @@ src/ccvie/config.py
 src/ccvie.egg-info/PKG-INFO
 src/ccvie.egg-info/SOURCES.txt
 src/ccvie.egg-info/dependency_links.txt
+src/ccvie.egg-info/entry_points.txt
 src/ccvie.egg-info/requires.txt
 src/ccvie.egg-info/top_level.txt
 src/ccvie/contracts/__init__.py

@@ -1,0 +1,2 @@
+[console_scripts]
+ccvie-migrate = ccvie.data_foundation.migrate:main

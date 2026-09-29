@@ -1,0 +1,1001 @@
+contact_id,date,product,brand,category,pack,pack_version,region,country,channel,issue_type,issue_category,sentiment,verbatim
+C0370,2026-01-01,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Social Media,Performance,Product Experience,Negative,The product does not work as well as before.
+C0511,2026-01-01,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0656,2026-01-01,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Social Media,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0668,2026-01-01,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,West,India,Web Form,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0531,2026-01-02,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0568,2026-01-02,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Chat,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0679,2026-01-02,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Email,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0853,2026-01-02,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,West,India,Chat,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0863,2026-01-02,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Social Media,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0026,2026-01-03,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Chat,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0199,2026-01-03,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Web Form,Performance,Product Experience,Positive,The product does not seem as effective.
+C0392,2026-01-03,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Social Media,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0409,2026-01-03,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Web Form,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0691,2026-01-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Social Media,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0173,2026-01-04,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Email,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0193,2026-01-04,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,North,India,Social Media,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0210,2026-01-04,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Social Media,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0334,2026-01-04,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Chat,Performance,Product Experience,Neutral,The product works well for me.
+C0781,2026-01-04,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Chat,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0824,2026-01-04,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Social Media,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0835,2026-01-04,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Email,General Enquiry,Product Experience,Neutral,Can you confirm whether the new pack is recyclable?
+C0940,2026-01-04,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0097,2026-01-05,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Phone,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0200,2026-01-05,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Social Media,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0588,2026-01-05,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Web Form,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0891,2026-01-05,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Email,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0941,2026-01-05,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Social Media,Leakage,Packaging,Negative,There was product residue around the seal.
+C0399,2026-01-06,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Phone,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0549,2026-01-06,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Chat,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0593,2026-01-06,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,West,India,Web Form,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0864,2026-01-06,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,South,India,Email,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0975,2026-01-06,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Email,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0033,2026-01-07,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Chat,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0128,2026-01-07,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Phone,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0143,2026-01-07,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Phone,Performance,Product Experience,Negative,The product does not seem as effective.
+C0215,2026-01-07,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0555,2026-01-07,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Web Form,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0903,2026-01-07,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Social Media,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0470,2026-01-08,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Social Media,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0591,2026-01-08,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Web Form,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0865,2026-01-08,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Chat,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0884,2026-01-08,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Phone,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0947,2026-01-08,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Phone,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0007,2026-01-09,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0388,2026-01-09,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Social Media,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0598,2026-01-09,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Chat,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0707,2026-01-09,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Social Media,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0862,2026-01-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Social Media,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0077,2026-01-10,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Phone,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0430,2026-01-10,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Chat,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0495,2026-01-10,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Web Form,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0510,2026-01-10,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Social Media,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0785,2026-01-10,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Chat,Leakage,Packaging,Negative,There was product residue around the seal.
+C0151,2026-01-11,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,North,India,Social Media,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0554,2026-01-11,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Email,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0622,2026-01-11,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Email,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0640,2026-01-11,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Email,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0699,2026-01-11,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Web Form,Texture,Product Experience,Negative,The product seems thinner than before.
+C0927,2026-01-11,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,East,India,Web Form,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0186,2026-01-12,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Email,Performance,Product Experience,Negative,The product does not work as well as before.
+C0365,2026-01-12,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Social Media,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0517,2026-01-12,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Phone,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0581,2026-01-12,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,West,India,Phone,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0801,2026-01-12,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Social Media,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0048,2026-01-13,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0131,2026-01-13,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Social Media,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0311,2026-01-13,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Web Form,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0408,2026-01-13,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0104,2026-01-14,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Web Form,Performance,Product Experience,Neutral,The product works well for me.
+C0303,2026-01-14,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0322,2026-01-14,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0783,2026-01-14,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0993,2026-01-14,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Chat,Texture,Product Experience,Negative,The product seems thinner than before.
+C0190,2026-01-15,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Email,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0548,2026-01-15,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,South,India,Email,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0905,2026-01-15,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Social Media,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0439,2026-01-16,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,West,India,Phone,Leakage,Packaging,Negative,The 1kg Pouch leaked in my bag.
+C0443,2026-01-16,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Email,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0487,2026-01-16,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Phone,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0633,2026-01-16,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Chat,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0098,2026-01-17,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,West,India,Social Media,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0120,2026-01-17,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Social Media,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0573,2026-01-17,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,West,India,Phone,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0053,2026-01-18,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Phone,Leakage,Packaging,Negative,There was product residue around the seal.
+C0074,2026-01-18,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Chat,Performance,Product Experience,Negative,The product does not work as well as before.
+C0141,2026-01-18,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Phone,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0242,2026-01-18,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,North,India,Chat,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0462,2026-01-18,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,North,India,Chat,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0567,2026-01-18,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0710,2026-01-18,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Email,General Enquiry,Product Experience,Positive,Can you confirm whether the new pack is recyclable?
+C0726,2026-01-18,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Email,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0836,2026-01-18,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Chat,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0016,2026-01-19,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Phone,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0083,2026-01-19,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,West,India,Chat,Texture,Product Experience,Negative,The product seems thinner than before.
+C0181,2026-01-19,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,West,India,Phone,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0192,2026-01-19,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Chat,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0246,2026-01-19,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Social Media,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0346,2026-01-19,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Web Form,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0397,2026-01-19,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Chat,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0509,2026-01-19,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,East,India,Phone,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0926,2026-01-19,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,North,India,Chat,Performance,Product Experience,Negative,The product does not work as well as before.
+C0977,2026-01-19,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Social Media,Performance,Product Experience,Neutral,The product works well for me.
+C0029,2026-01-20,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Web Form,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0198,2026-01-20,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Email,Performance,Product Experience,Neutral,The product works well for me.
+C0356,2026-01-20,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,East,India,Social Media,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0363,2026-01-20,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Social Media,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0802,2026-01-20,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Social Media,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0023,2026-01-21,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0396,2026-01-21,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Web Form,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0696,2026-01-21,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,North,India,Chat,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0744,2026-01-21,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Phone,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0922,2026-01-21,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Web Form,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0934,2026-01-21,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Web Form,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0208,2026-01-22,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Cap Difficulty,Packaging,Negative,The cap feels stuck every morning.
+C0344,2026-01-22,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Phone,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0456,2026-01-22,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Email,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0604,2026-01-22,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Social Media,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0626,2026-01-22,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Email,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0701,2026-01-22,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,The cap feels stuck every morning.
+C0765,2026-01-22,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,South,India,Web Form,Leakage,Packaging,Negative,There was product residue around the seal.
+C0806,2026-01-22,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Chat,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0113,2026-01-23,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Phone,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0147,2026-01-23,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,East,India,Web Form,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0435,2026-01-23,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Social Media,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0551,2026-01-23,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Social Media,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0606,2026-01-23,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Chat,Performance,Product Experience,Neutral,The product works well for me.
+C0068,2026-01-24,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Web Form,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0089,2026-01-24,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Phone,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0103,2026-01-24,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Web Form,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0283,2026-01-24,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0454,2026-01-24,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Web Form,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0600,2026-01-24,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Web Form,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0880,2026-01-24,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Phone,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0018,2026-01-25,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The lotion nozzle gets blocked after a few uses.
+C0479,2026-01-25,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0776,2026-01-25,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0892,2026-01-25,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Chat,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0195,2026-01-26,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Social Media,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0238,2026-01-26,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0353,2026-01-26,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Chat,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0527,2026-01-26,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Web Form,Performance,Product Experience,Positive,The product works well for me.
+C0576,2026-01-26,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Phone,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0651,2026-01-26,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Web Form,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0811,2026-01-26,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,The cap feels stuck every morning.
+C0832,2026-01-26,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Performance,Product Experience,Positive,The product works well for me.
+C0817,2026-01-27,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0851,2026-01-27,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,East,India,Chat,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0984,2026-01-27,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0219,2026-01-28,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,West,India,Social Media,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0277,2026-01-28,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Phone,Texture,Product Experience,Negative,The product seems thinner than before.
+C0452,2026-01-28,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,North,India,Email,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0484,2026-01-28,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Phone,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0514,2026-01-28,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Email,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0829,2026-01-28,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,West,India,Chat,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0948,2026-01-28,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Phone,Performance,Product Experience,Negative,The product does not seem as effective.
+C0011,2026-01-29,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Email,Leakage,Packaging,Negative,There is a small leak around the new bottle closure.
+C0013,2026-01-29,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Email,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0315,2026-01-29,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Chat,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0472,2026-01-29,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0615,2026-01-29,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Social Media,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0711,2026-01-29,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0878,2026-01-29,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Chat,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0027,2026-01-30,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0342,2026-01-30,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Web Form,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0471,2026-01-30,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Email,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0476,2026-01-30,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Chat,Performance,Product Experience,Negative,The product does not work as well as before.
+C0739,2026-01-30,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,East,India,Chat,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0792,2026-01-30,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Email,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0887,2026-01-30,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,West,India,Email,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0328,2026-01-31,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Web Form,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0364,2026-01-31,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Email,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0373,2026-01-31,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Web Form,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0519,2026-01-31,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Email,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0873,2026-01-31,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,South,India,Web Form,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0930,2026-01-31,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The deodorant pump gets stuck after a few sprays.
+C0953,2026-01-31,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,East,India,Email,Performance,Product Experience,Negative,The product does not work as well as before.
+C0954,2026-01-31,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C1000,2026-01-31,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Email,Performance,Product Experience,Positive,The product does not seem as effective.
+C0067,2026-02-01,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0556,2026-02-01,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Social Media,Cap Difficulty,Packaging,Negative,The new toothpaste cap is difficult to twist open.
+C0678,2026-02-01,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Chat,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0950,2026-02-01,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Email,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0030,2026-02-02,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Social Media,Leakage,Packaging,Negative,There was product residue around the seal.
+C0122,2026-02-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0629,2026-02-02,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0943,2026-02-02,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Social Media,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0124,2026-02-03,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Social Media,General Enquiry,Product Experience,Neutral,Can you confirm whether the new pack is recyclable?
+C0154,2026-02-03,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0209,2026-02-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0296,2026-02-03,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Chat,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0433,2026-02-03,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Web Form,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0497,2026-02-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Web Form,Positive Feedback,Product Experience,Positive,The product works well for my family.
+C0858,2026-02-03,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Chat,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0939,2026-02-03,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0955,2026-02-03,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Social Media,Texture,Product Experience,Negative,The product seems thinner than before.
+C0042,2026-02-04,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Web Form,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0234,2026-02-04,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Web Form,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0349,2026-02-04,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Social Media,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0404,2026-02-04,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Phone,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0490,2026-02-04,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0729,2026-02-04,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Email,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0735,2026-02-04,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0805,2026-02-04,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Chat,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0044,2026-02-05,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,East,India,Web Form,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0643,2026-02-05,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The lotion nozzle gets blocked after a few uses.
+C0902,2026-02-05,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Social Media,Performance,Product Experience,Negative,The product does not work as well as before.
+C0920,2026-02-05,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,East,India,Email,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0925,2026-02-05,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Chat,Leakage,Packaging,Negative,The 650ml Bottle leaked in my bag.
+C0205,2026-02-06,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Email,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0235,2026-02-06,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Chat,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0653,2026-02-06,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0814,2026-02-06,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Phone,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0995,2026-02-06,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Chat,General Enquiry,Product Experience,Positive,I would like information about the new packaging.
+C0040,2026-02-07,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Web Form,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0366,2026-02-07,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Phone,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0436,2026-02-07,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Email,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0460,2026-02-07,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Chat,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0485,2026-02-07,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Chat,Performance,Product Experience,Negative,The product does not seem as effective.
+C0608,2026-02-07,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Web Form,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0757,2026-02-07,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Email,Leakage,Packaging,Negative,There was product residue around the seal.
+C0775,2026-02-07,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Web Form,Performance,Product Experience,Positive,The product does not seem as effective.
+C0818,2026-02-07,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,General Enquiry,Product Experience,Positive,Can you confirm whether the new pack is recyclable?
+C0879,2026-02-07,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Email,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0121,2026-02-08,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Chat,Performance,Product Experience,Positive,The product does not seem as effective.
+C0288,2026-02-08,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0444,2026-02-08,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0031,2026-02-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Email,Leakage,Packaging,Negative,The cap does not seem to close properly and shampoo leaks out.
+C0108,2026-02-09,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0115,2026-02-09,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Chat,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0249,2026-02-09,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Phone,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0261,2026-02-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0418,2026-02-09,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0799,2026-02-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,South,India,Web Form,Texture,Product Experience,Negative,The product seems thinner than before.
+C0908,2026-02-09,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Email,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0155,2026-02-10,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Email,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0239,2026-02-10,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0262,2026-02-10,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Chat,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0580,2026-02-10,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Social Media,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0712,2026-02-10,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Social Media,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0964,2026-02-10,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Phone,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0335,2026-02-11,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0543,2026-02-11,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Chat,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0561,2026-02-11,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,South,India,Social Media,Performance,Product Experience,Negative,The product does not seem as effective.
+C0788,2026-02-11,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0789,2026-02-11,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Social Media,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0850,2026-02-11,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0149,2026-02-12,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Email,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0585,2026-02-12,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Phone,Texture,Product Experience,Negative,The product seems thinner than before.
+C0659,2026-02-12,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Social Media,Performance,Product Experience,Negative,The product does not seem as effective.
+C0732,2026-02-12,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Phone,Texture,Product Experience,Negative,The product seems thinner than before.
+C0869,2026-02-12,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,East,India,Chat,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0279,2026-02-13,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Email,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0709,2026-02-13,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Social Media,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0226,2026-02-14,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Social Media,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0270,2026-02-14,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0536,2026-02-14,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Email,Performance,Product Experience,Negative,The product does not seem as effective.
+C0764,2026-02-14,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Phone,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0826,2026-02-14,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Chat,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0856,2026-02-14,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Chat,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0867,2026-02-14,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Web Form,Texture,Product Experience,Negative,The product seems thinner than before.
+C0272,2026-02-15,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Web Form,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0457,2026-02-15,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Social Media,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0539,2026-02-15,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Web Form,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0572,2026-02-15,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Email,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0611,2026-02-15,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Web Form,Positive Feedback,Product Experience,Positive,The product works well for my family.
+C0693,2026-02-15,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Email,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0807,2026-02-15,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Chat,Texture,Product Experience,Negative,The product seems thinner than before.
+C0809,2026-02-15,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0275,2026-02-16,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Phone,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0465,2026-02-16,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Email,Performance,Product Experience,Neutral,The product does not seem as effective.
+C0662,2026-02-16,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Email,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0223,2026-02-17,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,The cap does not seem to close properly and shampoo leaks out.
+C0266,2026-02-17,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Web Form,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0338,2026-02-17,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Email,Leakage,Packaging,Negative,I found shampoo leaking from the new cap.
+C0534,2026-02-17,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0627,2026-02-17,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0844,2026-02-17,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,East,India,Web Form,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0071,2026-02-18,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0271,2026-02-18,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Chat,Performance,Product Experience,Neutral,The product works well for me.
+C0299,2026-02-18,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Chat,Leakage,Packaging,Negative,There was product residue around the seal.
+C0489,2026-02-18,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Web Form,Performance,Product Experience,Positive,The product does not seem as effective.
+C0660,2026-02-18,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,North,India,Phone,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0705,2026-02-18,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0810,2026-02-18,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Social Media,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0830,2026-02-18,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Phone,General Enquiry,Product Experience,Neutral,Can you confirm whether the new pack is recyclable?
+C0123,2026-02-19,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Social Media,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0416,2026-02-19,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0424,2026-02-19,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,South,India,Web Form,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0722,2026-02-19,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Chat,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0052,2026-02-20,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Chat,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0084,2026-02-20,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0225,2026-02-20,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Social Media,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0264,2026-02-20,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,North,India,Phone,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0565,2026-02-20,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,North,India,Email,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0974,2026-02-20,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Phone,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0314,2026-02-21,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,East,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0337,2026-02-21,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Phone,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0621,2026-02-21,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The opening keeps getting clogged.
+C0110,2026-02-22,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Social Media,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0522,2026-02-22,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Phone,Performance,Product Experience,Negative,The product does not seem as effective.
+C0730,2026-02-22,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0808,2026-02-22,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Email,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0400,2026-02-23,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,The new toothpaste cap is difficult to twist open.
+C0422,2026-02-23,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0670,2026-02-23,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Web Form,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0861,2026-02-23,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Social Media,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0921,2026-02-23,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Social Media,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0025,2026-02-24,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Social Media,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0237,2026-02-24,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0243,2026-02-24,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Web Form,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0428,2026-02-24,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,West,India,Email,General Enquiry,Product Experience,Positive,I would like information about the new packaging.
+C0516,2026-02-24,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Social Media,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0616,2026-02-24,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Phone,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0724,2026-02-24,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Social Media,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0967,2026-02-24,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Email,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0002,2026-02-25,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Email,Performance,Product Experience,Negative,The product does not work as well as before.
+C0022,2026-02-25,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,The new bottle is leaking around the cap.
+C0095,2026-02-25,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,I found shampoo leaking from the new cap.
+C0367,2026-02-25,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Social Media,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0720,2026-02-25,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Chat,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0942,2026-02-25,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0009,2026-02-26,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Web Form,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0058,2026-02-26,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,South,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0099,2026-02-26,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0177,2026-02-26,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Email,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0406,2026-02-26,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Chat,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0450,2026-02-26,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Email,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0504,2026-02-26,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Email,Leakage,Packaging,Negative,There is a small leak around the new bottle closure.
+C0674,2026-02-26,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Phone,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0063,2026-02-27,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0105,2026-02-27,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Social Media,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0230,2026-02-27,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Chat,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0537,2026-02-27,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Performance,Product Experience,Negative,The product does not work as well as before.
+C0753,2026-02-27,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,North,India,Email,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0754,2026-02-27,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,West,India,Chat,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0877,2026-02-27,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0907,2026-02-27,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0919,2026-02-27,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Phone,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0080,2026-02-28,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Chat,General Enquiry,Product Experience,Neutral,Can you confirm whether the new pack is recyclable?
+C0102,2026-02-28,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0310,2026-02-28,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Social Media,Performance,Product Experience,Positive,The product does not seem as effective.
+C0386,2026-02-28,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Chat,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0704,2026-02-28,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Chat,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0793,2026-02-28,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0827,2026-02-28,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Social Media,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0429,2026-03-01,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Chat,Performance,Product Experience,Neutral,The product does not seem as effective.
+C0448,2026-03-01,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Email,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0574,2026-03-01,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0650,2026-03-01,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0833,2026-03-01,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Email,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0260,2026-03-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0281,2026-03-02,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Social Media,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0945,2026-03-02,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Phone,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0250,2026-03-04,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Email,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0257,2026-03-04,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Performance,Product Experience,Positive,The product does not seem as effective.
+C0383,2026-03-04,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Email,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0782,2026-03-04,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Chat,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0870,2026-03-04,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0178,2026-03-05,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Email,Performance,Product Experience,Negative,The product does not seem as effective.
+C0293,2026-03-05,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Chat,Positive Feedback,Product Experience,Positive,The product works well for my family.
+C0442,2026-03-05,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Chat,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0713,2026-03-05,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Chat,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0778,2026-03-05,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0931,2026-03-05,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,North,India,Social Media,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0096,2026-03-06,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Leakage,Packaging,Negative,There is a small leak around the new bottle closure.
+C0458,2026-03-06,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0506,2026-03-06,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Phone,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0681,2026-03-06,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,East,India,Web Form,Performance,Product Experience,Positive,The product works well for me.
+C0843,2026-03-06,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Chat,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0191,2026-03-07,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0343,2026-03-07,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Social Media,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0394,2026-03-07,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,North,India,Phone,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0263,2026-03-08,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,East,India,Email,Positive Feedback,Product Experience,Positive,The product works well for my family.
+C0300,2026-03-08,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,Leakage,Packaging,Negative,There was product residue around the seal.
+C0357,2026-03-08,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Phone,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0542,2026-03-08,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0035,2026-03-09,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,East,India,Phone,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0144,2026-03-09,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,East,India,Email,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0157,2026-03-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0316,2026-03-09,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Email,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0368,2026-03-09,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0377,2026-03-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,There is a small leak around the new bottle closure.
+C0890,2026-03-09,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The lotion nozzle gets blocked after a few uses.
+C0032,2026-03-10,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Email,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0390,2026-03-10,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Email,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0398,2026-03-10,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Email,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0502,2026-03-10,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,East,India,Email,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0589,2026-03-10,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Web Form,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0741,2026-03-10,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Phone,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0059,2026-03-11,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Chat,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0252,2026-03-11,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Phone,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0560,2026-03-11,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Chat,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0803,2026-03-11,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Social Media,Nozzle Issue,Packaging,Negative,The opening keeps getting clogged.
+C0331,2026-03-12,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,West,India,Chat,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0380,2026-03-12,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Social Media,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0507,2026-03-12,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,East,India,Social Media,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0866,2026-03-12,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Chat,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0049,2026-03-13,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Phone,Leakage,Packaging,Negative,I found shampoo leaking from the new cap.
+C0493,2026-03-13,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,North,India,Phone,Performance,Product Experience,Positive,The product does not seem as effective.
+C0612,2026-03-13,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Chat,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0675,2026-03-13,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,South,India,Social Media,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0883,2026-03-13,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Chat,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0991,2026-03-13,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Social Media,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0125,2026-03-14,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Web Form,Performance,Product Experience,Negative,The product does not seem as effective.
+C0172,2026-03-14,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Email,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0488,2026-03-14,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Email,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0525,2026-03-14,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Web Form,Pump Issue,Packaging,Negative,The deodorant pump gets stuck after a few sprays.
+C0703,2026-03-14,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0860,2026-03-14,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Phone,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0874,2026-03-14,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0990,2026-03-14,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Email,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0065,2026-03-15,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Phone,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0158,2026-03-15,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,East,India,Social Media,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0201,2026-03-15,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,South,India,Phone,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0248,2026-03-15,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Email,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0378,2026-03-15,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Social Media,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0437,2026-03-15,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0607,2026-03-15,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Web Form,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0005,2026-03-16,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Phone,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0061,2026-03-16,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Web Form,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0453,2026-03-16,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0559,2026-03-16,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Chat,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0641,2026-03-16,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Email,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0533,2026-03-17,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Web Form,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0655,2026-03-17,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Web Form,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0719,2026-03-17,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0969,2026-03-17,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Phone,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0075,2026-03-18,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Email,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0188,2026-03-18,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0467,2026-03-18,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Chat,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0586,2026-03-18,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Email,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0786,2026-03-18,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Phone,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0637,2026-03-19,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,North,India,Chat,Leakage,Packaging,Negative,The 200ml Old Bottle leaked in my bag.
+C0648,2026-03-19,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Chat,Leakage,Packaging,Negative,There was product residue around the seal.
+C0702,2026-03-19,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Chat,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0933,2026-03-19,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Chat,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0663,2026-03-20,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,General Enquiry,Product Experience,Neutral,Can you confirm whether the new pack is recyclable?
+C0779,2026-03-20,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Chat,Performance,Product Experience,Neutral,The product works well for me.
+C0813,2026-03-20,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Web Form,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0972,2026-03-20,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Social Media,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0037,2026-03-21,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Social Media,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0136,2026-03-21,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Phone,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0410,2026-03-21,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0445,2026-03-21,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Email,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0244,2026-03-22,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Social Media,Performance,Product Experience,Positive,The product works well for me.
+C0384,2026-03-22,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,North,India,Chat,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0503,2026-03-22,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0189,2026-03-23,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Web Form,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0287,2026-03-23,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Web Form,Performance,Product Experience,Positive,The product works well for me.
+C0597,2026-03-23,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Social Media,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0841,2026-03-23,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Email,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0842,2026-03-23,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Chat,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0944,2026-03-23,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,The 2kg pouch seal opened while I was carrying it.
+C0323,2026-03-24,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,West,India,Phone,Leakage,Packaging,Negative,There was product residue around the seal.
+C0087,2026-03-25,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Chat,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0079,2026-03-26,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Chat,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0265,2026-03-26,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0463,2026-03-26,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0618,2026-03-26,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,West,India,Social Media,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0997,2026-03-26,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The opening keeps getting clogged.
+C0213,2026-03-27,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,South,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0258,2026-03-27,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,West,India,Email,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0893,2026-03-27,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Chat,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0981,2026-03-27,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Social Media,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0056,2026-03-28,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,West,India,Phone,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0088,2026-03-28,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Chat,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0468,2026-03-28,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Phone,Leakage,Packaging,Negative,There was product residue around the seal.
+C0547,2026-03-28,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Chat,Leakage,Packaging,Negative,The 100ml Spray leaked in my bag.
+C0583,2026-03-28,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Chat,Leakage,Packaging,Negative,The 200ml Old Bottle leaked in my bag.
+C0644,2026-03-28,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Web Form,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0746,2026-03-28,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Phone,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0834,2026-03-28,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Phone,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0937,2026-03-28,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Phone,Leakage,Packaging,Negative,The 3kg Box leaked in my bag.
+C0221,2026-03-29,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Phone,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0222,2026-03-29,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0473,2026-03-29,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Web Form,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0494,2026-03-29,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0513,2026-03-29,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0529,2026-03-29,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Social Media,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0167,2026-03-30,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Chat,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0587,2026-03-30,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Email,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0960,2026-03-30,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Email,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0970,2026-03-30,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0034,2026-03-31,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0341,2026-03-31,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Phone,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0381,2026-03-31,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Performance,Product Experience,Neutral,The product does not seem as effective.
+C0395,2026-03-31,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Web Form,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0669,2026-03-31,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Web Form,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0165,2026-04-01,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Email,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0385,2026-04-01,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Email,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0491,2026-04-01,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Leakage,Packaging,Negative,There is a small leak around the new bottle closure.
+C0673,2026-04-01,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0845,2026-04-01,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Email,Performance,Product Experience,Positive,The product works well for me.
+C0885,2026-04-01,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,The lotion nozzle gets blocked after a few uses.
+C0912,2026-04-01,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0134,2026-04-02,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0478,2026-04-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Web Form,Performance,Product Experience,Negative,The product does not seem as effective.
+C0747,2026-04-02,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Performance,Product Experience,Positive,The product does not seem as effective.
+C0831,2026-04-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Social Media,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0212,2026-04-03,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,The cap feels stuck every morning.
+C0427,2026-04-03,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0557,2026-04-03,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Email,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0692,2026-04-03,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0733,2026-04-03,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Web Form,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0797,2026-04-03,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Phone,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0821,2026-04-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Chat,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0159,2026-04-04,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0594,2026-04-04,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Social Media,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0838,2026-04-04,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Email,Performance,Product Experience,Neutral,The product does not seem as effective.
+C0051,2026-04-05,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,The opening keeps getting clogged.
+C0117,2026-04-05,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Social Media,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0138,2026-04-05,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Web Form,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0360,2026-04-05,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The deodorant pump gets stuck after a few sprays.
+C0498,2026-04-05,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0700,2026-04-05,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Leakage,Packaging,Negative,The new bottle is leaking around the cap.
+C0748,2026-04-05,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Chat,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0081,2026-04-06,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Email,Performance,Product Experience,Negative,The product does not seem as effective.
+C0129,2026-04-06,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0202,2026-04-06,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Social Media,General Enquiry,Product Experience,Positive,Can you confirm whether the new pack is recyclable?
+C0528,2026-04-06,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Email,General Enquiry,Product Experience,Positive,Can you confirm whether the new pack is recyclable?
+C0823,2026-04-06,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0183,2026-04-07,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Chat,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0362,2026-04-07,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0584,2026-04-07,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Chat,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0979,2026-04-07,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Web Form,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0021,2026-04-08,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,West,India,Chat,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0312,2026-04-08,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Social Media,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0411,2026-04-08,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0619,2026-04-08,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0717,2026-04-08,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0755,2026-04-08,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,North,India,Email,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0774,2026-04-08,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Chat,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0929,2026-04-08,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Web Form,Performance,Product Experience,Negative,The product does not work as well as before.
+C0936,2026-04-08,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Social Media,Cap Difficulty,Packaging,Negative,The new toothpaste cap is difficult to twist open.
+C0958,2026-04-08,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Chat,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0175,2026-04-09,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0295,2026-04-09,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Web Form,Pump Issue,Packaging,Negative,The deodorant pump gets stuck after a few sprays.
+C0750,2026-04-09,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0752,2026-04-09,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,West,India,Chat,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0959,2026-04-09,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Phone,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0227,2026-04-10,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,South,India,Email,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0336,2026-04-10,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Chat,Leakage,Packaging,Negative,The 650ml Bottle leaked in my bag.
+C0412,2026-04-10,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Chat,Seal Issue,Packaging,Negative,The 2kg pouch seal opened while I was carrying it.
+C0440,2026-04-10,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Web Form,Leakage,Packaging,Negative,I found shampoo leaking from the new cap.
+C0449,2026-04-10,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0790,2026-04-10,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0913,2026-04-10,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Chat,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0508,2026-04-11,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Phone,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0617,2026-04-11,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Phone,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0714,2026-04-11,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Web Form,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0767,2026-04-11,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Email,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0914,2026-04-11,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,East,India,Chat,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0978,2026-04-11,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Web Form,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0980,2026-04-11,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Chat,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0358,2026-04-12,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Social Media,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0698,2026-04-12,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Social Media,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0932,2026-04-12,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0015,2026-04-13,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0041,2026-04-13,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0217,2026-04-13,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Email,Leakage,Packaging,Negative,The new bottle is leaking around the cap.
+C0318,2026-04-13,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0019,2026-04-14,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Web Form,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0481,2026-04-14,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Email,Performance,Product Experience,Negative,The product does not seem as effective.
+C0736,2026-04-14,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0216,2026-04-15,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0305,2026-04-15,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Phone,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0553,2026-04-15,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Web Form,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0169,2026-04-16,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,East,India,Web Form,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0267,2026-04-16,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0351,2026-04-16,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Social Media,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0407,2026-04-16,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Email,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0447,2026-04-16,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0492,2026-04-16,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Social Media,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0499,2026-04-16,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Web Form,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0590,2026-04-16,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Email,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0601,2026-04-16,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,East,India,Web Form,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0664,2026-04-16,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,The cap does not seem to close properly and shampoo leaks out.
+C0849,2026-04-16,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,West,India,Social Media,Performance,Product Experience,Negative,The product does not seem as effective.
+C0152,2026-04-17,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,North,India,Chat,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0171,2026-04-17,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Chat,Pump Issue,Packaging,Negative,The deodorant pump gets stuck after a few sprays.
+C0196,2026-04-17,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Web Form,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0255,2026-04-17,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0854,2026-04-17,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Email,General Enquiry,Product Experience,Positive,Can you confirm whether the new pack is recyclable?
+C0875,2026-04-17,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Web Form,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0901,2026-04-17,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0988,2026-04-17,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,The 2kg pouch seal opened while I was carrying it.
+C0092,2026-04-18,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,South,India,Web Form,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0686,2026-04-18,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Chat,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0795,2026-04-18,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Performance,Product Experience,Positive,The product works well for me.
+C0852,2026-04-18,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,East,India,Web Form,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0917,2026-04-18,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0532,2026-04-19,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0596,2026-04-19,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,North,India,Phone,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0819,2026-04-19,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Social Media,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0868,2026-04-19,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Web Form,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0886,2026-04-19,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Email,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0900,2026-04-19,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Email,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0996,2026-04-19,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Chat,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0112,2026-04-20,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Chat,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0224,2026-04-20,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Chat,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0354,2026-04-20,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Web Form,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0371,2026-04-20,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Chat,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0451,2026-04-20,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Social Media,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0582,2026-04-20,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Phone,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0728,2026-04-20,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Chat,Leakage,Packaging,Negative,There was product residue around the seal.
+C0734,2026-04-20,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Performance,Product Experience,Negative,The product does not work as well as before.
+C0054,2026-04-21,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,East,India,Web Form,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0109,2026-04-21,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The 2kg pouch seal opened while I was carrying it.
+C0347,2026-04-21,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Chat,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0405,2026-04-21,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Web Form,Leakage,Packaging,Negative,There was product residue around the seal.
+C0578,2026-04-21,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Performance,Product Experience,Positive,The product does not seem as effective.
+C0638,2026-04-21,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0896,2026-04-21,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0036,2026-04-22,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Social Media,Texture,Product Experience,Negative,The product seems thinner than before.
+C0055,2026-04-22,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Web Form,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0403,2026-04-22,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Social Media,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0431,2026-04-22,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0486,2026-04-22,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Leakage,Packaging,Negative,I found shampoo leaking from the new cap.
+C0737,2026-04-22,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Email,Performance,Product Experience,Negative,The product does not work as well as before.
+C0986,2026-04-22,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Chat,Performance,Product Experience,Negative,The product does not seem as effective.
+C0232,2026-04-23,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,South,India,Phone,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0635,2026-04-23,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Chat,General Enquiry,Product Experience,Positive,Can you confirm whether the new pack is recyclable?
+C0985,2026-04-23,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0093,2026-04-24,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Email,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0145,2026-04-24,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Chat,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0291,2026-04-24,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Phone,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0563,2026-04-24,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0721,2026-04-24,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,North,India,Chat,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0963,2026-04-24,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,West,India,Chat,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0130,2026-04-25,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Phone,General Enquiry,Product Experience,Neutral,Can you confirm whether the new pack is recyclable?
+C0286,2026-04-25,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Chat,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0545,2026-04-25,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Social Media,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0646,2026-04-25,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Email,General Enquiry,Product Experience,Positive,I would like information about the new packaging.
+C0952,2026-04-25,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Chat,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0043,2026-04-26,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,West,India,Phone,Performance,Product Experience,Negative,The product does not seem as effective.
+C0306,2026-04-26,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Web Form,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0657,2026-04-26,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Social Media,Performance,Product Experience,Positive,The product works well for me.
+C0895,2026-04-26,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Phone,Performance,Product Experience,Positive,The product does not seem as effective.
+C0153,2026-04-27,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Web Form,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0160,2026-04-27,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Social Media,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0180,2026-04-27,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0236,2026-04-27,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0480,2026-04-27,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0518,2026-04-27,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0571,2026-04-27,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Chat,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0951,2026-04-27,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Email,General Enquiry,Product Experience,Positive,I would like information about the new packaging.
+C0004,2026-04-28,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Email,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0197,2026-04-28,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,West,India,Phone,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0297,2026-04-28,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Social Media,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0389,2026-04-28,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Email,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0761,2026-04-28,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Chat,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0822,2026-04-28,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Web Form,Performance,Product Experience,Neutral,The product does not seem as effective.
+C0846,2026-04-28,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,West,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0989,2026-04-28,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Chat,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0126,2026-04-29,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Phone,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0184,2026-04-29,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,East,India,Phone,Performance,Product Experience,Negative,The product does not work as well as before.
+C0352,2026-04-29,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Email,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0355,2026-04-29,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,West,India,Phone,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0911,2026-04-29,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0256,2026-04-30,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0751,2026-04-30,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Chat,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0840,2026-04-30,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Phone,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0871,2026-04-30,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Phone,Performance,Product Experience,Negative,The product does not seem as effective.
+C0182,2026-05-01,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,East,India,Web Form,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0254,2026-05-01,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Email,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0269,2026-05-01,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Chat,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0631,2026-05-01,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,South,India,Web Form,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0636,2026-05-01,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0796,2026-05-01,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Chat,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0039,2026-05-02,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Email,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0118,2026-05-02,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Web Form,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0203,2026-05-02,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Email,Performance,Product Experience,Neutral,The product works well for me.
+C0290,2026-05-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Chat,Positive Feedback,Product Experience,Positive,The product works well for my family.
+C0402,2026-05-02,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Social Media,Performance,Product Experience,Negative,The product does not seem as effective.
+C0500,2026-05-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Web Form,Texture,Product Experience,Negative,The product seems thinner than before.
+C0530,2026-05-02,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,North,India,Social Media,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0642,2026-05-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Email,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0837,2026-05-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0999,2026-05-02,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Web Form,Leakage,Packaging,Negative,The 50ml Roll-On leaked in my bag.
+C0241,2026-05-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Email,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0268,2026-05-03,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Phone,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0278,2026-05-03,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0282,2026-05-03,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,North,India,Chat,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0307,2026-05-03,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0738,2026-05-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Phone,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0928,2026-05-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,There is a small leak around the new bottle closure.
+C0413,2026-05-04,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Chat,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0482,2026-05-04,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Email,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0906,2026-05-04,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0320,2026-05-05,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0421,2026-05-05,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,North,India,Phone,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0521,2026-05-05,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,North,India,Email,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0718,2026-05-05,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Email,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0759,2026-05-05,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Phone,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0787,2026-05-05,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Web Form,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0062,2026-05-06,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Social Media,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0100,2026-05-06,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Social Media,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0228,2026-05-06,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Social Media,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0294,2026-05-06,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Phone,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0515,2026-05-06,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0579,2026-05-06,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Social Media,Texture,Product Experience,Negative,The product seems thinner than before.
+C0613,2026-05-06,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0815,2026-05-06,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Phone,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0898,2026-05-06,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0962,2026-05-06,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0623,2026-05-07,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,North,India,Email,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0632,2026-05-07,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Email,Leakage,Packaging,Negative,There was product residue around the seal.
+C0758,2026-05-07,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,East,India,Email,Leakage,Packaging,Negative,The 3kg Box leaked in my bag.
+C0876,2026-05-07,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Web Form,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0073,2026-05-08,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Email,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0082,2026-05-08,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Email,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0251,2026-05-08,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Web Form,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0324,2026-05-08,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The 2kg pouch seal opened while I was carrying it.
+C0415,2026-05-08,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Web Form,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0706,2026-05-08,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Social Media,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0894,2026-05-08,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Social Media,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0187,2026-05-09,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,West,India,Web Form,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0348,2026-05-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Email,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0382,2026-05-09,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Web Form,Performance,Product Experience,Negative,The product does not seem as effective.
+C0432,2026-05-09,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Email,General Enquiry,Product Experience,Positive,Can you confirm whether the new pack is recyclable?
+C0727,2026-05-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Email,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0740,2026-05-09,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Email,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0994,2026-05-09,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Chat,Performance,Product Experience,Neutral,The product works well for me.
+C0012,2026-05-10,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Phone,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0133,2026-05-10,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0229,2026-05-10,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Chat,Pump Issue,Packaging,Negative,The deodorant pump gets stuck after a few sprays.
+C0301,2026-05-10,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Chat,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0546,2026-05-10,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Web Form,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0665,2026-05-10,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Social Media,Cap Difficulty,Packaging,Negative,The cap feels stuck every morning.
+C0688,2026-05-10,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Web Form,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0114,2026-05-11,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Social Media,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0146,2026-05-11,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Social Media,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0330,2026-05-11,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Email,Cap Broken,Packaging,Negative,The closure snapped after only a few uses.
+C0379,2026-05-11,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0441,2026-05-11,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Phone,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0017,2026-05-12,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Email,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0292,2026-05-12,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Phone,Performance,Product Experience,Negative,The product does not work as well as before.
+C0526,2026-05-12,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Email,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0904,2026-05-12,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Cap Difficulty,Packaging,Negative,The new toothpaste cap is difficult to twist open.
+C0057,2026-05-13,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Chat,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0127,2026-05-13,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Chat,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0321,2026-05-13,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,North,India,Social Media,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0685,2026-05-13,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Chat,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0987,2026-05-13,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Chat,Performance,Product Experience,Positive,The product works well for me.
+C0211,2026-05-14,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Phone,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0259,2026-05-14,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Email,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0327,2026-05-14,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Email,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0469,2026-05-14,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Chat,Performance,Product Experience,Negative,The product does not work as well as before.
+C0474,2026-05-14,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0570,2026-05-14,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Chat,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0624,2026-05-14,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0647,2026-05-14,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0756,2026-05-14,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Web Form,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0897,2026-05-14,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0078,2026-05-15,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Phone,Texture,Product Experience,Negative,The product seems thinner than before.
+C0119,2026-05-15,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,South,India,Chat,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0595,2026-05-15,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Email,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0694,2026-05-15,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0697,2026-05-15,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0794,2026-05-15,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Chat,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0804,2026-05-15,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0101,2026-05-16,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Web Form,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0760,2026-05-16,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Chat,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0161,2026-05-17,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0393,2026-05-17,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0538,2026-05-17,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Web Form,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0661,2026-05-17,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Web Form,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0820,2026-05-17,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,South,India,Email,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0773,2026-05-18,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Web Form,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0231,2026-05-19,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,South,India,Phone,Texture,Product Experience,Negative,The product seems thinner than before.
+C0333,2026-05-19,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Web Form,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0512,2026-05-19,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,East,India,Social Media,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0667,2026-05-19,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0973,2026-05-19,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,East,India,Social Media,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0046,2026-05-20,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Email,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0066,2026-05-20,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0438,2026-05-20,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,The cap feels stuck every morning.
+C0909,2026-05-20,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Social Media,Performance,Product Experience,Neutral,The product works well for me.
+C0020,2026-05-21,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0070,2026-05-21,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,North,India,Phone,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0376,2026-05-21,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,North,India,Phone,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0426,2026-05-21,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Chat,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0332,2026-05-22,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0716,2026-05-22,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Web Form,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0780,2026-05-22,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Web Form,Performance,Product Experience,Negative,The product does not work as well as before.
+C0857,2026-05-22,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0938,2026-05-22,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,West,India,Email,Performance,Product Experience,Negative,The product does not seem as effective.
+C0350,2026-05-23,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,North,India,Email,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0111,2026-05-24,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0168,2026-05-24,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0326,2026-05-24,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Social Media,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0434,2026-05-24,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Social Media,Packaging,Packaging,Negative,The new package is inconvenient to use.
+C0654,2026-05-24,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,General Enquiry,Product Experience,Positive,Can you confirm whether the new pack is recyclable?
+C0723,2026-05-24,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Web Form,Performance,Product Experience,Positive,The product works well for me.
+C0769,2026-05-24,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Chat,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0971,2026-05-24,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Texture,Product Experience,Negative,The product seems thinner than before.
+C0085,2026-05-25,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Email,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0284,2026-05-25,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Web Form,General Enquiry,Product Experience,Positive,I would like information about the new packaging.
+C0359,2026-05-25,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Leakage,Packaging,Negative,The new bottle is leaking around the cap.
+C0374,2026-05-25,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Chat,Texture,Product Experience,Negative,The product seems thinner than before.
+C0038,2026-05-26,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Social Media,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0233,2026-05-26,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Phone,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0725,2026-05-26,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Web Form,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0743,2026-05-26,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Email,Leakage,Packaging,Negative,The 200ml Old Bottle leaked in my bag.
+C0982,2026-05-26,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,The new toothpaste cap is difficult to twist open.
+C0076,2026-05-27,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Web Form,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0179,2026-05-27,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Phone,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0253,2026-05-27,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Phone,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0285,2026-05-27,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0289,2026-05-27,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0340,2026-05-27,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Phone,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0391,2026-05-27,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Web Form,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0649,2026-05-27,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Social Media,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0708,2026-05-27,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Phone,Texture,Product Experience,Negative,The product seems thinner than before.
+C0855,2026-05-27,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0872,2026-05-27,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0132,2026-05-28,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Social Media,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0214,2026-05-28,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Social Media,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0375,2026-05-28,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,East,India,Chat,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0475,2026-05-28,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Chat,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0544,2026-05-28,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0762,2026-05-28,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Social Media,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0496,2026-05-29,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Chat,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0558,2026-05-29,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Phone,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0682,2026-05-29,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,North,India,Chat,Leakage,Packaging,Negative,The 250ml Old Bottle leaked in my bag.
+C0045,2026-05-30,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,The cap does not seem to close properly and shampoo leaks out.
+C0156,2026-05-30,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,North,India,Email,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0339,2026-05-30,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Web Form,Pump Issue,Packaging,Negative,The nozzle stopped working properly.
+C0414,2026-05-30,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,South,India,Email,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0687,2026-05-30,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,The new toothpaste cap is difficult to twist open.
+C0060,2026-05-31,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Social Media,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0273,2026-05-31,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,West,India,Social Media,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0566,2026-05-31,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Social Media,Performance,Product Experience,Neutral,The product does not seem as effective.
+C0652,2026-05-31,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Email,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0666,2026-05-31,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Chat,Performance,Product Experience,Negative,The product does not work as well as before.
+C0798,2026-05-31,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Social Media,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0915,2026-05-31,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Phone,Leakage,Packaging,Negative,I found shampoo leaking from the new cap.
+C0966,2026-05-31,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Social Media,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0319,2026-06-01,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Web Form,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0455,2026-06-01,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Chat,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0010,2026-06-02,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Chat,Seal Issue,Packaging,Negative,Powder came out because the pouch opened at the top.
+C0162,2026-06-02,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Social Media,Performance,Product Experience,Neutral,The product works well for me.
+C0309,2026-06-02,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Phone,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0791,2026-06-02,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Chat,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0372,2026-06-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Leakage,Packaging,Negative,There is a small leak around the new bottle closure.
+C0505,2026-06-03,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0552,2026-06-03,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,South,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0671,2026-06-03,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0689,2026-06-03,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Email,Packaging,Packaging,Negative,The packaging feels less sturdy than before.
+C0768,2026-06-03,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0139,2026-06-04,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Chat,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0142,2026-06-04,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Phone,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0325,2026-06-04,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Chat,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0550,2026-06-04,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0639,2026-06-04,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Social Media,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0816,2026-06-04,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,East,India,Chat,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0828,2026-06-04,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,I have to use too much force to open the 150g tube.
+C0006,2026-06-05,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,South,India,Email,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0245,2026-06-05,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Social Media,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0280,2026-06-05,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0313,2026-06-05,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Social Media,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0369,2026-06-05,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,East,India,Social Media,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0956,2026-06-05,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Web Form,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0174,2026-06-06,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Chat,Performance,Product Experience,Negative,The product does not work as well as before.
+C0420,2026-06-06,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Phone,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0461,2026-06-06,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Web Form,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0477,2026-06-06,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0683,2026-06-06,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Social Media,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0423,2026-06-07,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0466,2026-06-07,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,North,India,Chat,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0695,2026-06-07,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0086,2026-06-08,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Chat,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0387,2026-06-08,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0401,2026-06-08,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,East,India,Chat,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0419,2026-06-08,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Email,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0535,2026-06-08,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Chat,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0047,2026-06-09,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0772,2026-06-09,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,West,India,Email,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0064,2026-06-10,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Email,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0116,2026-06-10,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,East,India,Phone,General Enquiry,Product Experience,Positive,I wanted to know whether this product is available in a larger size.
+C0150,2026-06-10,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Social Media,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0523,2026-06-10,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Web Form,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0524,2026-06-10,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Chat,Performance,Product Experience,Neutral,The product works well for me.
+C0605,2026-06-10,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0630,2026-06-10,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0812,2026-06-10,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0072,2026-06-11,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Email,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0135,2026-06-11,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Leakage,Packaging,Negative,The new bottle is leaking around the cap.
+C0800,2026-06-11,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Chat,Cap Difficulty,Packaging,Negative,I have to use both hands to open the pack.
+C0918,2026-06-11,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Chat,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0976,2026-06-11,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Phone,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0028,2026-06-12,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,North,India,Phone,Leakage,Packaging,Negative,The 200ml Tube leaked in my bag.
+C0069,2026-06-12,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Web Form,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0107,2026-06-12,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Phone,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0207,2026-06-12,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,East,India,Phone,Performance,Product Experience,Positive,The product works well for me.
+C0361,2026-06-12,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,West,India,Chat,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0731,2026-06-12,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,South,India,Chat,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0001,2026-06-13,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,West,India,Phone,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0140,2026-06-13,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Email,Cap Difficulty,Packaging,Negative,The new toothpaste cap is difficult to twist open.
+C0599,2026-06-13,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Chat,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0847,2026-06-13,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Email,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0968,2026-06-13,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Web Form,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0094,2026-06-14,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,North,India,Social Media,Leakage,Packaging,Negative,I noticed product leaking around the cap.
+C0946,2026-06-14,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,South,India,Social Media,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0298,2026-06-15,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,West,India,Chat,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0541,2026-06-15,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Email,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0592,2026-06-15,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,South,India,Web Form,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0620,2026-06-15,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,North,India,Social Media,Performance,Product Experience,Neutral,I noticed a change in performance after the new pack.
+C0634,2026-06-15,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,North,India,Chat,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0766,2026-06-15,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Phone,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0050,2026-06-16,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Chat,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0091,2026-06-16,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Social Media,General Enquiry,Product Experience,Positive,I would like information about the new packaging.
+C0170,2026-06-16,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,West,India,Email,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0603,2026-06-16,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Email,Fragrance,Product Experience,Negative,The smell is much stronger than before.
+C0763,2026-06-16,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Social Media,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0935,2026-06-16,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,North,India,Phone,Performance,Product Experience,Positive,I noticed a change in performance after the new pack.
+C0008,2026-06-17,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Chat,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0137,2026-06-17,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,North,India,Web Form,Fragrance,Product Experience,Negative,The product has a different scent than expected.
+C0302,2026-06-17,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,West,India,Web Form,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0446,2026-06-17,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Web Form,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0882,2026-06-17,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Phone,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0014,2026-06-18,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,South,India,Chat,Seal Issue,Packaging,Negative,The package arrived with the seal partially open.
+C0106,2026-06-18,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Email,Performance,Product Experience,Positive,The product works well for me.
+C0218,2026-06-18,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Web Form,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0329,2026-06-18,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Web Form,Leakage,Packaging,Negative,There is a small leak around the new bottle closure.
+C0459,2026-06-18,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,The lotion nozzle gets blocked after a few uses.
+C0684,2026-06-18,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Web Form,Texture,Product Experience,Negative,The texture feels different from the previous product.
+C0770,2026-06-18,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Phone,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0859,2026-06-18,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,North,India,Email,Cap Broken,Packaging,Negative,The cap broke when I tried to open it.
+C0949,2026-06-18,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Social Media,Cap Difficulty,Packaging,Negative,Opening this pack takes too much effort.
+C0185,2026-06-19,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,The lotion nozzle gets blocked after a few uses.
+C0317,2026-06-19,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Web Form,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0483,2026-06-19,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,East,India,Social Media,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0577,2026-06-19,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Phone,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0625,2026-06-19,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,West,India,Phone,Positive Feedback,Product Experience,Positive,Good quality and easy to use.
+C0771,2026-06-19,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Email,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0176,2026-06-20,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,West,India,Email,General Enquiry,Product Experience,Positive,I would like information about the new packaging.
+C0575,2026-06-20,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,East,India,Phone,Performance,Product Experience,Negative,The product does not work as well as before.
+C0658,2026-06-20,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0745,2026-06-20,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0899,2026-06-20,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,North,India,Web Form,General Enquiry,Product Experience,Neutral,I would like information about the new packaging.
+C0916,2026-06-20,FreshGlow Shampoo,FreshGlow,Hair Care,1L Family Bottle,Standard,East,India,Web Form,Fragrance,Product Experience,Negative,The fragrance seems different from the previous pack.
+C0961,2026-06-20,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Phone,Pump Issue,Packaging,Negative,The new spray mechanism is not releasing the product consistently.
+C0024,2026-06-21,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Social Media,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0276,2026-06-21,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0610,2026-06-21,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,North,India,Social Media,Leakage,Packaging,Negative,The 200g Family Pack leaked in my bag.
+C0881,2026-06-21,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,East,India,Web Form,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0992,2026-06-21,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Phone,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0090,2026-06-22,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,North,India,Chat,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0676,2026-06-22,DailyFresh Deodorant,DailyFresh,Personal Care,50ml Roll-On,Standard,South,India,Email,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0308,2026-06-23,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,South,India,Social Media,General Enquiry,Product Experience,Positive,I would like information about the new packaging.
+C0501,2026-06-23,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,The lid feels too tight and is difficult to twist.
+C0677,2026-06-23,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,North,India,Chat,Cap Difficulty,Packaging,Negative,Opening the new tube is inconvenient.
+C0749,2026-06-23,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,East,India,Phone,Texture,Product Experience,Negative,The consistency is not what I normally expect.
+C0777,2026-06-23,BrightSmile Toothpaste,BrightSmile,Oral Care,200g Family Pack,Standard,East,India,Chat,Performance,Product Experience,Positive,The product works well for me.
+C0784,2026-06-23,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,North,India,Social Media,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0848,2026-06-23,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Web Form,Leakage,Packaging,Negative,The cap does not seem to close properly and shampoo leaks out.
+C0148,2026-06-24,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Chat,Positive Feedback,Product Experience,Positive,The product works well for my family.
+C0247,2026-06-24,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Social Media,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0304,2026-06-24,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Chat,Leakage,Packaging,Negative,I found shampoo leaking from the new cap.
+C0540,2026-06-24,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Social Media,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.
+C0645,2026-06-24,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Seal Issue,Packaging,Negative,The new detergent pouch is not sealing properly.
+C0345,2026-06-25,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Social Media,Positive Feedback,Product Experience,Positive,The new pack is convenient to use.
+C0609,2026-06-25,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Social Media,Texture,Product Experience,Negative,The product seems thinner than before.
+C0166,2026-06-26,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Web Form,Nozzle Issue,Packaging,Negative,Very little product comes out of the nozzle.
+C0206,2026-06-26,DailyFresh Deodorant,DailyFresh,Personal Care,100ml Spray,Standard,West,India,Phone,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0220,2026-06-26,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,West,India,Chat,Leakage,Packaging,Negative,The container is leaking after a few uses.
+C0564,2026-06-26,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Phone,Pump Issue,Packaging,Negative,The dispenser is not releasing the product properly.
+C0680,2026-06-26,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Chat,Pump Issue,Packaging,Negative,The pump gets stuck when I press it.
+C0889,2026-06-26,FreshGlow Conditioner,FreshGlow,Hair Care,200ml Old Bottle,Standard,West,India,Email,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0983,2026-06-26,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,East,India,Phone,Performance,Product Experience,Negative,The product does not seem as effective.
+C0204,2026-06-27,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,West,India,Social Media,General Enquiry,Product Experience,Neutral,I wanted to know whether this product is available in a larger size.
+C0274,2026-06-27,BrightSmile Toothpaste,BrightSmile,Oral Care,150g Tube,Standard,South,India,Phone,Performance,Product Experience,Positive,The product does not seem as effective.
+C0602,2026-06-27,FreshGlow Shampoo,FreshGlow,Hair Care,250ml Old Bottle,Standard,South,India,Social Media,Positive Feedback,Product Experience,Positive,The product works well for my family.
+C0628,2026-06-27,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Phone,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0690,2026-06-27,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Chat,Pump Issue,Packaging,Negative,The pump stopped working after a few uses.
+C0888,2026-06-27,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,South,India,Chat,Performance,Product Experience,Positive,The product does not seem as effective.
+C0003,2026-06-28,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,West,India,Phone,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0417,2026-06-28,SoftCare Lotion,SoftCare,Skin Care,100ml Tube,Standard,South,India,Social Media,Performance,Product Experience,Negative,The product does not work as well as before.
+C0520,2026-06-28,PureWash Detergent,PureWash,Fabric Care,3kg Box,Standard,South,India,Phone,Nozzle Issue,Packaging,Negative,The nozzle is difficult to use.
+C0569,2026-06-28,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Phone,General Enquiry,Product Experience,Neutral,Can you confirm whether the new pack is recyclable?
+C0672,2026-06-28,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,East,India,Phone,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0715,2026-06-28,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,South,India,Web Form,Seal Issue,Packaging,Negative,The seal does not close properly.
+C0742,2026-06-28,SoftCare Lotion,SoftCare,Skin Care,400ml Pump Bottle,Standard,East,India,Web Form,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0825,2026-06-28,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Social Media,Positive Feedback,Product Experience,Positive,I really like the new packaging.
+C0924,2026-06-28,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Phone,Leakage,Packaging,Negative,The new 500ml bottle leaked inside my travel bag.
+C0998,2026-06-28,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,West,India,Email,Leakage,Packaging,Negative,There was product residue around the seal.
+C0163,2026-06-29,FreshGlow Shampoo,FreshGlow,Hair Care,500ml Old Bottle,Standard,North,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0425,2026-06-29,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,North,India,Chat,Cap Broken,Packaging,Negative,The plastic lid cracked during normal use.
+C0562,2026-06-29,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,The nozzle is difficult to squeeze and dispense.
+C0839,2026-06-29,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,South,India,Chat,Cap Difficulty,Packaging,Negative,The new cap is very hard to open.
+C0910,2026-06-29,BrightSmile Toothpaste,BrightSmile,Oral Care,100g Tube,Standard,East,India,Phone,Nozzle Issue,Packaging,Negative,The opening gets blocked during use.
+C0957,2026-06-29,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Web Form,Packaging,Packaging,Negative,The packaging is difficult to store.
+C0164,2026-06-30,FreshGlow Conditioner,FreshGlow,Hair Care,650ml Bottle,Standard,South,India,Social Media,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0194,2026-06-30,FreshGlow Conditioner,FreshGlow,Hair Care,400ml New Bottle,New,South,India,Web Form,Performance,Product Experience,Negative,I noticed a change in performance after the new pack.
+C0240,2026-06-30,DailyFresh Deodorant,DailyFresh,Personal Care,150ml Spray,Standard,South,India,Email,Pump Issue,Packaging,Negative,I need to press the spray several times before anything comes out.
+C0464,2026-06-30,PureWash Detergent,PureWash,Fabric Care,2kg Pouch,Standard,West,India,Web Form,Seal Issue,Packaging,Negative,The seal on the 2kg pack seems weak.
+C0614,2026-06-30,FreshGlow Shampoo,FreshGlow,Hair Care,500ml New Bottle,New,South,India,Web Form,Leakage,Packaging,Negative,The cap does not seem to close properly and shampoo leaks out.
+C0923,2026-06-30,PureWash Detergent,PureWash,Fabric Care,1kg Pouch,Standard,South,India,Social Media,Seal Issue,Packaging,Negative,The pouch seal opened during transport.
+C0965,2026-06-30,SoftCare Lotion,SoftCare,Skin Care,200ml Tube,Standard,East,India,Email,Nozzle Issue,Packaging,Negative,Very little lotion comes out of the new tube opening.

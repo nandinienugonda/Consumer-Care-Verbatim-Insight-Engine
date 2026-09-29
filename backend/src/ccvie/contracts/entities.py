@@ -1,13 +1,13 @@
 """Product, Pack, Region, IssueType, Verbatim."""
 
 from datetime import datetime
-from enum import Enum
+from enum import StrEnum
 from uuid import UUID
 
 from pydantic import BaseModel
 
 
-class IssueType(str, Enum):
+class IssueType(StrEnum):
     packaging = "packaging"
     taste = "taste"
     shipping = "shipping"
@@ -18,14 +18,14 @@ class IssueType(str, Enum):
     other = "other"
 
 
-class PackType(str, Enum):
+class PackType(StrEnum):
     bag = "bag"
     box = "box"
     bottle = "bottle"
     can = "can"
 
 
-class VerbatimSource(str, Enum):
+class VerbatimSource(StrEnum):
     call = "call"
     email = "email"
     social = "social"

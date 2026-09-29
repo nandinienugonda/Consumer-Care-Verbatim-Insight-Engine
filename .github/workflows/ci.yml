@@ -1,0 +1,69 @@
+name: ci
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    services:
+      db:
+        image: pgvector/pgvector:pg16
+        env:
+          POSTGRES_USER: ccvie
+          POSTGRES_PASSWORD: ccvie
+          POSTGRES_DB: ccvie
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U ccvie"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[dev]"
+      - run: ruff check src tests scripts
+      - run: ruff format --check src tests scripts
+      - run: ccvie-migrate
+      - run: pytest tests/unit tests/integration --require-db -q
+      - name: Generated frontend types match contracts
+        run: python scripts/gen_types.py && git diff --exit-code ../frontend/src/lib/types.generated.ts
+
+  model-name-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: No model names outside config.py and .env files
+        run: |
+          if git grep -nIiE '(claude|gpt)-[0-9]' -- backend/src backend/scripts frontend/src \
+              data/generators ':!backend/src/ccvie/config.py'; then
+            echo "Model name found outside backend/src/ccvie/config.py"
+            exit 1
+          fi
+
+  frontend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - run: npm run lint
+      - run: npm run type-check
+      - run: npm run test

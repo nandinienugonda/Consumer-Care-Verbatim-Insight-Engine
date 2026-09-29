@@ -77,9 +77,9 @@ When the backend developer adds code, follow these steps:
 ### Apply Database Migrations
 
 ```powershell
-# Migrations go in db/migrations/
-# The backend developer will provide these
-docker exec ccvie-db psql -U ccvie -d ccvie -f /path/to/migration.sql
+# Applies every pending file in db/migrations/ in order
+cd backend
+py -m ccvie.data_foundation.migrate
 ```
 
 ### Seed Data
@@ -100,11 +100,16 @@ This reads the backend OpenAPI schema and generates `frontend/src/lib/types.gene
 
 ```powershell
 cd backend
-py -m pip install -e .
-py -m uvicorn ccvie.retrieval_gen.api:app --reload --port 8000
+py -m pip install -e ".[dev]"
+py -m uvicorn ccvie.api.app:app --reload --port 8000
 ```
 
-The API listens on http://localhost:8000. Interactive docs: http://localhost:8000/docs
+The API listens on http://localhost:8000. Interactive docs: http://localhost:8000/docs.
+It needs `AUTH_DEV_MODE=true` and a 32+ character `AUTH_DEV_SECRET` in `.env` for local
+development (see `.env.example`). Mint a bearer token with `py scripts/dev_token.py --help`.
+
+Or run the whole stack in containers: `docker compose up -d --build api` (starts db, redis,
+applies migrations, then the API).
 
 ---
 
@@ -130,7 +135,7 @@ Once backend code arrives, install and start:
 ```powershell
 cd backend
 py -m pip install -e .
-py -m uvicorn ccvie.retrieval_gen.api:app --reload --port 8000
+py -m uvicorn ccvie.api.app:app --reload --port 8000
 ```
 
 ---

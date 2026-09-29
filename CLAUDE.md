@@ -52,8 +52,8 @@ cd frontend && npm install && cd ..
 # Start PostgreSQL + pgvector container
 docker compose up -d db
 
-# Apply migrations (repeat for each file in db/migrations/)
-docker exec ccvie-db psql -U ccvie -d ccvie -f db/migrations/0001_init_entities.sql
+# Apply every pending file in db/migrations/ (idempotent, records schema_migrations)
+cd backend && py -m ccvie.data_foundation.migrate && cd ..
 
 # Load seed taxonomy
 docker exec ccvie-db psql -U ccvie -d ccvie -f db/seed/seed_taxonomy.sql
@@ -81,7 +81,7 @@ npm run gen-types    # Regenerate types from backend OpenAPI
 cd backend
 
 # Start FastAPI with live reload (http://localhost:8000)
-py -m uvicorn ccvie.retrieval_gen.api:app --reload --port 8000
+py -m uvicorn ccvie.api.app:app --reload --port 8000
 
 # Unit and integration tests
 py -m pytest tests/unit tests/integration
@@ -157,7 +157,7 @@ data/
 2. Run `.\bootstrap.ps1` to install dependencies.
 3. Run `docker compose up -d db` to start the database.
 4. Apply migrations and seed data (see Database commands above).
-5. Start the backend: `cd backend && py -m uvicorn ccvie.retrieval_gen.api:app --reload --port 8000`
+5. Start the backend: `cd backend && py -m uvicorn ccvie.api.app:app --reload --port 8000`
 6. Start the frontend: `cd frontend && npm run dev`
 
 The frontend currently uses mock data. It will switch to live API calls once backend routes are implemented.
